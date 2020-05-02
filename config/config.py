@@ -1,0 +1,5 @@
+RAW_DATA_PATH = ""
+TARGET_DATA_PATH = ""
+VGG_PATH = " "
+
+EP_MAX = 100000
